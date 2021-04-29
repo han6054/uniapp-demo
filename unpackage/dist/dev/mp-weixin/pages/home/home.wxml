@@ -1,0 +1,1 @@
+<view>这是home页面<block wx:for="{{count}}" wx:for-item="item" wx:for-index="index" wx:key="index"><view><view>{{item}}</view></view></block><button class="button" type="default" data-event-opts="{{[['tap',[['add',['$event']]]]]}}" bindtap="__e">添加Count</button></view>

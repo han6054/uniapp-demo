@@ -1,0 +1,1 @@
+<view><view>这是订单页面</view><view><button type="primary" data-event-opts="{{[['tap',[['go',['$event']]]]]}}" bindtap="__e">跳转到订单详情</button></view></view>
